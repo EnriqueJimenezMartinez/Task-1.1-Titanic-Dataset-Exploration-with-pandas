@@ -27,7 +27,7 @@ Aprender a usar **Pandas** de manera práctica y aplicada, con ejemplos claros p
 
 ## ⚙️ Requisitos
 
-- Python 3.8+
+- Python 3.13+
 - Pandas 🐼
 
 
